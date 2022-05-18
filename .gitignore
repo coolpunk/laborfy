@@ -1,0 +1,9 @@
+data
+
+__pycache__
+.idea
+.code
+venv
+
+*.db
+.env_dist
